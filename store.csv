@@ -1,0 +1,6 @@
+Store,,,,
+Model,Plate,Brand,Seats,Extral_seats(SportsPackage)
+suv,123,benz,4,3
+sedan,456,bmw,4,1
+pickup,678,dodge,2,2
+sedan,890,porsche,4,0
